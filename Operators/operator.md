@@ -20,8 +20,8 @@ console.log(newWeight); //90
 ```
 # Logical assignment operator
 ## Example
-`x||=y` equivalent with `x||(x=y)`
-`x??=y` equivalent with `x??(x=y)`
+* `x||=y` equivalent with `x||(x=y)`
+* `x??=y` equivalent with `x??(x=y)`
 # Exponentiation operator
 ## Example
 `2**3=8`
