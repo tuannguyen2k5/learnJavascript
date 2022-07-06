@@ -25,3 +25,14 @@ console.log(newWeight); //90
 # Exponentiation operator
 ## Example
 `2**3=8`
+
+# Comma operator
+* A comma operator takes two expressions and evaluates them from left to right, and returns the value of the right expression.
+* Use the comma operator (,) inside a for loop to update multiple variables once.
+* Use two statements rather than the comma operator elsewhere to make the code more explicit and easier to understand.
+## Example
+```
+let x=10;
+let y=(x++,x+1);
+console.log(x,y);// 11 12
+```
